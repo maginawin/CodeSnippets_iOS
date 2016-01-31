@@ -1,2 +1,2 @@
-# The snippets saved path:
+# The snippets saved path
 ~/Library/Developer/Xcode/UserData/CodeSnippets
