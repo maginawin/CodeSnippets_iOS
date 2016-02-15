@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#pragma mark - ------- Private -------</string>
+	<string>pragma mark - ------- Private -------</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>68C04C06-3B8E-48EB-B136-47FE60CAE46B</string>
 	<key>IDECodeSnippetLanguage</key>
@@ -19,6 +19,6 @@
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>
