@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>customPragmaPrivate</string>
+	<string>myPragmaPrivate</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
@@ -14,8 +14,10 @@
 	<string>68C04C06-3B8E-48EB-B136-47FE60CAE46B</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>pragma mark - ------- Private -------</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>pragma mark - ------- private -------</string>
+	<string>My Pragma Private</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

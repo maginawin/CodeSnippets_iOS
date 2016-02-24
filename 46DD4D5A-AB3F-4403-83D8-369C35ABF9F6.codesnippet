@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>customInitView</string>
+	<string>myInitView</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassImplementation</string>
@@ -33,7 +33,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>Contains -initWithFrame: and -awakeFromNib and include setupDidInit in them.</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Custom Init View</string>
+	<string>My Init View</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
